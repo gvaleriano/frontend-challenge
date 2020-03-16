@@ -1,0 +1,15 @@
+#main-login{
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  padding-top: 25px;
+  margin-right: 25px;
+}
+
+#main-welcome{
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  padding-top: 25px;
+}
